@@ -1,0 +1,35 @@
+body {
+    color: rgb(117, 14, 207);
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color:hotpink;
+}
+/* külastamata link */
+a:link {
+    color: red;
+}
+/* külastatud link */
+a:visited {
+    color: blue;
+}
+/* hiir kohal */
+a:hover {
+    color:rgb(121, 14, 68);
+}
+p {
+    color: hotpink;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+    size: 10px;
+}
+ul {
+    color:hotpink;
+}
+table, th, td {
+    border: 1px solid;
+}
